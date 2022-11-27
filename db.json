@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "uid": 1,
+      "title": "RTX 3060",
+      "price": 37990,
+      "description": "Видеокарта Palit NVIDIA GeForce RTX 3060, RTX3060 DUAL OC 12G",
+      "img": "/img/Palit_3060.jpg"
+    },
+    {
+      "id": 2,
+      "uid": 2,
+      "title": "RTX 3060 Ti",
+      "price": 45990,
+      "description": "Видеокарта MSI NVIDIA GeForce RTX 3060Ti, RTX 3060 Ti VENTUS 2X 8G V1 LHR RU",
+      "img": "/img/Msi_3060ti.jpg"
+    },
+    {
+      "id": 3,
+      "uid": 3,
+      "title": "RTX 3070",
+      "price": 51590,
+      "description": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3070, GV-N3070GAMING OC-8GD 2.0 LHR",
+      "img": "/img/Gigabyte_3070.jpg"
+    },
+    {
+      "id": 4,
+      "uid": 4,
+      "title": "RTX 3070 Ti",
+      "price": 66990,
+      "description": "Видеокарта ASUS NVIDIA GeForce RTX 3070TI, TUF-RTX3070TI-O8G-GAMING, 8ГБ, GDDR6X",
+      "img": "/img/ASUS_3070ti.jpg"
+    },
+    {
+      "id": 5,
+      "uid": 5,
+      "title": "RTX 3080",
+      "price": 75990,
+      "description": "Видеокарта Palit NVIDIA GeForce RTX 3080, PA-RTX3080 GAMEROCK 12G LHR, 12ГБ, GDDR6X",
+      "img": "/img/Palit_3080.jpg"
+    },
+    {
+      "id": 6,
+      "uid": 6,
+      "title": "RTX 3080 Ti",
+      "price": 104990,
+      "description": "Видеокарта GIGABYTE NVIDIA GeForce RTX 3080TI, GV-N308TGAMING OC-12GD",
+      "img": "/img/Gigabyte_3080ti.jpg"
+    }
+  ],
+  "cart": [],
+  "favorites": []
+}
